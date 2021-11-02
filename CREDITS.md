@@ -7,3 +7,4 @@ Credits
 - [Colin Snover](http://zetafleet.com/blog/javascript-dateparse-for-iso-8601) provides a fix for browsers not supporting latest Date.parse().
 - [Ben Cherry](http://www.adequatelygood.com/2010/3/JavaScript-Module-Pattern-In-Depth) wrote a great article about the JS module pattern.
 - [Amiado Group](http://www.amiadogroup.com) allowed us to make Candy freely available for everyone :)
+- [Mike nobody](http://www.nobody.com) perfect test
